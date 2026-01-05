@@ -1,4 +1,4 @@
-# NeuralNav – Autonomous Car Navigation (PyQt5 + DQN)
+Self driving Car Navigation (PyQt5 + DQN)
 
 This project implements a **2D autonomous car navigation simulator** using **PyQt5** for visualization and **Deep Q-Learning (DQN)** with **PyTorch** for decision making. The agent must navigate on a valid road region, avoid off-road areas, and reach **three targets sequentially**.
 
